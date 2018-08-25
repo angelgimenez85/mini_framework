@@ -1,0 +1,15 @@
+[options]
+debug-mode=false
+
+[controllers]
+path=\controller\ 
+
+[styles]
+style1=/css/bootstrap.min.css
+style2=/css/style.css
+style3=/css/estilo.css
+
+[scripts]
+script1=/js/jquery.min.js
+script2=/js/bootstrap.min.js
+script3=/js/global.js

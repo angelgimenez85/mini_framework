@@ -1,0 +1,29 @@
+tr.resultado:hover {
+    cursor: pointer;
+    background-color: gray;
+}
+td.delete:hover {
+    cursor: pointer;
+}
+/*Listado*/
+div#table-wrapper{
+    /*width: 1000px;
+    margin: auto;*/
+}
+td.botones{
+    text-align: right;
+}
+
+#loadingMessage .message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 640px;
+    height: 120px;
+    margin-left: -320px;
+    margin-top: -60px;
+    font-size: 24px;
+    color: gray;
+    opacity: 0.4;
+    text-align: center;
+}
